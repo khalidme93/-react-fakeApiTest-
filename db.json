@@ -1,6 +1,6 @@
 {
   "user": [
-    {"email": "", "password": "" },
+    {"email": "", "password": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
